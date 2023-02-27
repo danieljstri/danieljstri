@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @danieljstri
-- 👀 I’m interested in Web Development, CyberSecurity and IA
-- 🌱 I’m currently learning Django from Python
-- 💞️ I’m looking to collaborate on Making a website
-- 📫 How to reach me: caninzao@gmail.com
+- 👀 I’m interested in Data Manipulation, CyberSecurity and Machine Learning
+- 🌱 I’m currently learning Data Analysis with Python
+- 💞️ I’m looking to collaborate on Big DATA
+- 📫 How to reach me: @danieljstri
 
 <!---
 danieljstri/danieljstri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
