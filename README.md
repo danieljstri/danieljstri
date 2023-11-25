@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danieljstri
-- 👀 I’m interested in Data Manipulation, CyberSecurity and Machine Learning
-- 🌱 I’m currently learning Data Analysis with Python
-- 💞️ I’m looking to collaborate on Big DATA
+- 👀 I’m interested in Data Manipulation, Web Development and Automation
+- 🌱 I’m currently learning Web Development with Python
+- 💞️ I’m looking to collaborate on Developments
 - 📫 How to reach me: @danieljstri
 
 <!---
